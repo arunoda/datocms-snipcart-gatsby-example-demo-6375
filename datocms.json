@@ -1,0 +1,8 @@
+{
+  "name": "Snipcart + Gatsby Example",
+  "previewImage": "https://cdn.jsdelivr.net/gh/datocms/snipcart-gatsby-demo/preview.png",
+  "templateId": "5985",
+  "deploymentType": "static",
+  "buildCommand": "gatsby build",
+  "buildDirectory": "public"
+}
